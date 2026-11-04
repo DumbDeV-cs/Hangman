@@ -1,7 +1,36 @@
 #!/usr/bin/env python3
 """Terminal Hangman — categories, difficulty levels, hints, colors and
 an almost unlimited supply of random words. totally not vibecoded"""
+""" Lyrics of some song 
+[Verse 1]
+I don't want a friend
+I want my life in two (Please, one more night; my life in two)
+Waiting to get there
+Waiting for you (I done fighted all night; waiting for you)
+(I done fighted all night)
 
+[Pre-Chorus]
+When I'm around slow dancing in the dark
+Don't follow me, you'll end up in my arms
+You done made up your mind
+I don't need no more signs
+Can you?
+Can you?
+
+[Chorus]
+Give me reasons we should be complete
+You should be with him, I can't compete
+You looked at me like I was someone else, oh well
+Can't you see? (Can't you see?)
+I don't wanna slow dance (I don't wanna slow dance)
+In the dark, dark
+
+[Verse 2]
+When you gotta run (Gotta run, gotta run)
+Just hear my voice in you (My voice in you)
+Shutting me out, you (Shutting me out)
+Doing so great (So great, so great)
+Yeah"""
 import os
 import random
 import sys
