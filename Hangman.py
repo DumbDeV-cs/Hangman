@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Terminal Hangman — categories, difficulty levels, hints, colors and
-an almost unlimited supply of random words."""
+an almost unlimited supply of random words. totally not vibecoded"""
 
 import os
 import random
