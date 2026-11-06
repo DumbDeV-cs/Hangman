@@ -30,7 +30,7 @@ When you gotta run (Gotta run, gotta run)
 Just hear my voice in you (My voice in you)
 Shutting me out, you (Shutting me out)
 Doing so great (So great, so great)
-Yeah"""
+Yeah enjoy thisss """
 import os
 import random
 import sys
